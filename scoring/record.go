@@ -5,7 +5,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/Fresh-Tracks/data-sidecar/util"
+	"github.com/open-fresh/data-sidecar/util"
 )
 
 func filterLabels(labels map[string]string) map[string]string {

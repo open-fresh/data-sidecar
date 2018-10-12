@@ -1,7 +1,7 @@
 package anomaly
 
 import (
-	"github.com/Fresh-Tracks/data-sidecar/stat"
+	"github.com/open-fresh/data-sidecar/stat"
 )
 
 func anomalyLabels(labels map[string]string, model string) map[string]string {

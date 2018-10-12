@@ -6,9 +6,9 @@ import (
 	"math"
 	"net/http"
 
-	"github.com/Fresh-Tracks/data-sidecar/scoring/anomaly"
-	"github.com/Fresh-Tracks/data-sidecar/storage"
-	"github.com/Fresh-Tracks/data-sidecar/util"
+	"github.com/open-fresh/data-sidecar/scoring/anomaly"
+	"github.com/open-fresh/data-sidecar/storage"
+	"github.com/open-fresh/data-sidecar/util"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

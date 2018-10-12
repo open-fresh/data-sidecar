@@ -3,7 +3,7 @@ package icarus
 import (
 	"sync"
 
-	"github.com/Fresh-Tracks/data-sidecar/util"
+	"github.com/open-fresh/data-sidecar/util"
 )
 
 // IcarusStore holds sets of metrics and retires them as necessary.

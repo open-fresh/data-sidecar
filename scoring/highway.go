@@ -1,8 +1,8 @@
 package scoring
 
 import (
-	"github.com/Fresh-Tracks/data-sidecar/stat"
-	"github.com/Fresh-Tracks/data-sidecar/util"
+	"github.com/open-fresh/data-sidecar/stat"
+	"github.com/open-fresh/data-sidecar/util"
 )
 
 // HighwayVal is the kind of value a highway can hold

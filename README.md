@@ -13,7 +13,7 @@ In non-bash terms, the sidecar is designed to be developed within the gopath and
 ### Running on a platform that doesn't support the makefile:
 
 ```bash
-cd $GOPATH/github.com/Fresh-Tracks/data-sidecar
+cd $GOPATH/github.com/open-fresh/data-sidecar
 go get
 go test ./... -cover
 go build
