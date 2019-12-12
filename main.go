@@ -11,10 +11,10 @@ import (
 	_ "net/http/pprof"
 	"time"
 
-	"github.com/Fresh-Tracks/data-sidecar/icarus"
-	"github.com/Fresh-Tracks/data-sidecar/prom"
-	"github.com/Fresh-Tracks/data-sidecar/scoring"
-	"github.com/Fresh-Tracks/data-sidecar/storage"
+	"github.com/open-fresh/data-sidecar/icarus"
+	"github.com/open-fresh/data-sidecar/prom"
+	"github.com/open-fresh/data-sidecar/scoring"
+	"github.com/open-fresh/data-sidecar/storage"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

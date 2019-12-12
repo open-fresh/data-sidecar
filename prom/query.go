@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Fresh-Tracks/data-sidecar/util"
+	"github.com/open-fresh/data-sidecar/util"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

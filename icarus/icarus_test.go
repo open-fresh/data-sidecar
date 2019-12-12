@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fresh-Tracks/data-sidecar/util"
+	"github.com/open-fresh/data-sidecar/util"
 )
 
 var ()

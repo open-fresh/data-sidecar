@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Fresh-Tracks/data-sidecar/storage"
-	"github.com/Fresh-Tracks/data-sidecar/util"
+	"github.com/open-fresh/data-sidecar/storage"
+	"github.com/open-fresh/data-sidecar/util"
 )
 
 func withJitter(n float64) float64 {
